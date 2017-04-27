@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalCounter</string>
+
+    <string name="hello_world">Ciao mondo!</string>
+    <string name="action_settings">impostazioni</string>
+    <string name="title_text">CalCounter</string>
+    <string name="hint_food">Cosa hai mangiato?</string>
+    <string name="hint_calories">Calories Count</string>
+    <string name="submit_text">Sottoscrivi</string>
+    <string name="delete_item">Cancella oggetto</string>
+    <string name="share_title">Condividere</string>
+    <string name="food_total_text">Calorie totali:</string>
+    <string name="cal_text">Cal.</string>
+    <string name="food_items_num">Prodotti alimentari:</string>
+    <string name="title_activity_display_foods">Visualizzare cibi Activity</string>
+    <string name="title_activity_food_item_details">Il cibo Particolari attività</string>
+    <string name="chicken">pollo</string>
+    <string name="sausage">salsiccia</string>
+    <string name="bread">pane</string>
+    <string name="pasta">pastas</string>
+    <string name="bacon">tocino</string>
+
+</resources>
